@@ -1,0 +1,1 @@
+{"app":{"name":"app","packages":{"com.i.jetpacklivedata":{"packageName":"com.i.jetpacklivedata","isAll":false,"classes":["Lcom.i.jetpacklivedata.MainActivity","Lcom.i.jetpacklivedata.DataViewModel"]}}}}
